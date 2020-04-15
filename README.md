@@ -1,2 +1,3 @@
 # covid_19_brazil
-Buscarei, diariamente, atualizar os ddos disponibilizados, para download manual, do site mantido pelo Ministério da Saúde do Brasil, https://covid.saude.gov.br/
+Dados atualizados diariamente pelo Ministério da Saúde do Brasil, em https://covid.saude.gov.br/
+Na referida página, só é possível download manual dos dados, em formato ".csv". Através do GitHub, este dowonload pode ser automático.
